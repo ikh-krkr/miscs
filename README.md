@@ -28,8 +28,8 @@ When moving and editing using the "git mv" command. (commits were made in one)
 
 - https://github.com/hikeya/test-pr-diff/pull/2
 
-「git mv」コマンドを使って移動し、編集した場合（コミットは分けて実施した）
-
 When moving and editing using the "git mv" command. (commits were performed separately)
+
+「git mv」コマンドを使って移動し、編集した場合（コミットは分けて実施した）
 
 - https://github.com/hikeya/test-pr-diff/pull/3
